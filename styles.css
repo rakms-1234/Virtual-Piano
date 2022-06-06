@@ -28,14 +28,14 @@
 #showcase h1{
     font-size: 50px;
     line-height: 1.2;
-    color: white;
+    color: black;
     padding-top: 350px ;
 }
 
 #showcase .button{
     font-size: 25px;
     text-decoration: none ;
-    color: white;
+    color: black;
     border: #26310a 1px solid;
     padding: 10 px 20px;
     border-radius: 15px;
